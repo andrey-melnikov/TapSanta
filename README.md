@@ -9,4 +9,5 @@ Control the santa, collect gifts and avoid obstacles. Very MVP.
 P.S. this game is based on another game with paper-planes that I sold. It was so cool and beautiful! but it seems like I have deleted it, silly me, should have published it on github :( . But anyway, the gameplay is similar in this game.
 <br ><br >
 **Download game:**<br >
-[ApkBuild.apk](game.apk)
+[ApkBuild.apk](game.apk)<br >
+or in [Google Play](https://play.google.com/store/apps/details?id=com.AndreyMelnikov.TapSanta)
