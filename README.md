@@ -1,6 +1,6 @@
 # TapSanta
 Mobile game <br ><br >
-**Screenshots** <br >
+**Icon** <br >
 <img src="Icon.jpg" width= "100">
 <br ><br >
 **Short description**<br >
